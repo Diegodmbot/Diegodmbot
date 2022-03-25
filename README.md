@@ -7,9 +7,10 @@
 ## <span style="color:#CD41E5">About me </span>
 
 ---
-    - I'm currently studying Computer Engeneering on Universidad de La Laguna 🎒
-    - I'm interested in videogames and software development 🕹️
-    - Pronouns: He/him 😇
+
+- I'm currently studying Computer Engeneering on Universidad de La Laguna 🎒
+- I'm interested in videogames and software development 🕹️
+- Pronouns: He/him 😇
 
 ## <span style="color:#CD41E5"> Languages & Tools </span>
 
