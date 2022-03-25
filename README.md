@@ -1,7 +1,7 @@
 # <span style="color:#5EB2EC">Hello!</span> <img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&hide_border=true&username=Diegodm35&hide=Makefilelayout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&hide_border=true&username=Diegodm35&hide=Makefilelayout=compact" />
 </a>
 
 ## <span style="color:#CD41E5">About me </span>
@@ -11,9 +11,6 @@
 - I'm currently studying Computer Engeneering on Universidad de La Laguna 🎒
 - I'm interested in videogames and software development 🕹️
 - Pronouns: He/him 😇
-
-<br>
-<br>
 
 ## <span style="color:#CD41E5"> Languages & Tools </span>
 
