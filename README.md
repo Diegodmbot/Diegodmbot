@@ -12,6 +12,8 @@
 - I'm interested in videogames and software development 🕹️
 - Pronouns: He/him 😇
 
+<br>
+
 ## <span style="color:#CD41E5"> Languages & Tools </span>
 
 ---
@@ -22,8 +24,6 @@
 <code><img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fjava-logo-png-transparent.png&f=1&nofb=1"></code>
 <code><img width="40" src="https://github.com/github/explore/blob/main/topics/unity/unity.png?raw=true"></code>
 <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-
-<br>
 
 ## <span style="color:#CD41E5">Contact me </span>
 
