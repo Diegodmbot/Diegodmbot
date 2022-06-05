@@ -1,4 +1,4 @@
-# Hello! <img src="https://i.imgur.com/csn2hC2.gif" width=1px style="display: inline-block"></img>
+# Hello! <img src="https://i.imgur.com/csn2hC2.gif" width="40" style="display: inline-block"></img>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&hide_border=true&username=Diegodm35&hide=Makefilelayout=compact" />
