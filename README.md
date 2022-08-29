@@ -16,7 +16,7 @@
 <code><img width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
 <code><img width="40" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true"></code>
 <code><img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fjava-logo-png-transparent.png&f=1&nofb=1"></code>
-<code><img width="40" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab.png"></code>
+<code><img width="40" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg"></code>
 <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
 
 
