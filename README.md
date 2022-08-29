@@ -17,6 +17,7 @@
 <code><img width="40" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true"></code>
 <code><img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fjava-logo-png-transparent.png&f=1&nofb=1"></code>
 <code><img width="40" src="https://github.com/github/explore/blob/main/topics/unity/unity.png?raw=true"></code>
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
 
 
 ## Contact me
